@@ -86,7 +86,7 @@ Operator kondisional _?_ memungkinkan kita mengetik kode jadi lebih singkat dan 
 let hasil = kondisi ? valueTrue : valueFalse;
 ```
 
-Varibel akan memiliki nilai `valueTrue` jika `kondisi` bernilai `true` dan `valueFalse` jika kondisi bernilai `false`
+Varibel `hasil` akan memiliki nilai `valueTrue` jika `kondisi` bernilai `true` dan `valueFalse` jika `kondisi` bernilai `false`
 Sebagai contoh:
 
 ```js
