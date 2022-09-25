@@ -1,4 +1,4 @@
-# Belajar JavaScript
+# Catatan JavaScript
 
 - [Tipe Data](./tutorial/01-tipe_data.md)
 - [Operator](./tutorial/02-operator.md)
